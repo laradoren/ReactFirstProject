@@ -1,0 +1,20 @@
+.inner {
+  display: grid;
+  grid-template-areas: "h h" 
+                        "n c";
+  grid-template-columns: 2fr 10fr;
+  margin: 10px;
+        
+}
+.content {
+  grid-area: c;
+  background-color: #222222;
+  height: 100%;
+  color: #333373;
+  padding: 50px;
+}
+
+
+
+
+

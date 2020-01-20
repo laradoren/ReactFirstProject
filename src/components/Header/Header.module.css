@@ -1,0 +1,21 @@
+.header {
+    grid-area: h;
+    background-color: white;
+    padding-left: 50px;
+    
+  }
+  
+  .header img {
+    width: 50px;
+  }
+
+  .auth_block {
+    float: right;
+    
+  }
+
+  .auth_link {
+    padding-right: 50px;  
+    text-decoration: none;
+    color: #333373;
+  }

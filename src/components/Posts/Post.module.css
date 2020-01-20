@@ -1,0 +1,26 @@
+.post {
+    background: white;
+    margin: 10px 60px;
+    padding: 10px 30px 10px 30px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.image {
+    width: 100px;
+    border-radius: 100px; 
+    justify-content: flex-start;
+}
+
+.text {
+    
+}
+
+.like {
+
+}
+
+.user {
+    margin: 60px;
+}

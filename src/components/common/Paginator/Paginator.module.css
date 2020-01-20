@@ -1,0 +1,25 @@
+.usersPhoto {
+    width: 200px;
+    height: 200px;
+}
+
+.userBlock {
+    margin: 40px 0;
+}
+
+.selectedPage {
+    font-weight: bold;;
+}
+
+.paginator {
+    margin: 10px;
+}
+.pageNumber {
+    padding: 4px;
+    border: 1px solid white;
+    
+}
+.pageNumber .selectedPage {
+    font-weight: bold;
+    border-color: turquoise;
+}

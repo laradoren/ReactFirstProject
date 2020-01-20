@@ -1,0 +1,12 @@
+.usersPhoto {
+    width: 200px;
+    height: 200px;
+}
+
+.userBlock {
+    margin: 40px 0;
+}
+
+.selectedPage {
+    font-weight: bold;;
+}

@@ -1,0 +1,41 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+    
+}
+
+.dialogItems .active{
+    color: gold;
+}
+
+.friend a{
+    color: #333373;
+    text-decoration: none;
+}
+
+
+.messege {
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    
+}
+
+.user {
+    padding-top: 20px; 
+    display: flex;
+    padding: 10px;
+    align-items: center;
+  }
+  
+  .user textarea {
+    width: 300px;
+    height: 25px;
+    
+  }
+  
+  .user button {
+    width: 170px;
+    height: 30px;
+    background-color: #fff;
+  }

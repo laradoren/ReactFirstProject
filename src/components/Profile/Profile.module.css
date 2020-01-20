@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+}
+
+.info {
+  padding-left: 50px;
+}
+
+.usersPhoto {
+  width: 400px;
+  height: 400px;
+}
+
+.contact {
+  padding-left: 10px;
+}
